@@ -1,0 +1,40 @@
+.container-div{ 
+    Display: flex;
+    justify-content: center;
+    }
+
+.events-img{
+    width: 900px;
+    height: 270px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: relative;
+
+}
+
+.events-text{
+    margin-left: 310px;
+    margin-top: 20px;
+    font-family: adobe-garamond-pro;
+    color: rgba(26,26,26,.7);
+    font-size: large;
+}
+
+.events-line{
+    color: rgba(26,26,26,.7);
+    width: 900px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+
+}
+
+.events-img-2{
+    width: 700px;
+    height: 1000px;
+}
+
+.events-text-2{
+    font-family: adobe-garamond-pro;
+    font-size: 30px;
+    
+}

@@ -1,0 +1,26 @@
+.membersReflection-text{
+    margin-left: 450px;
+    margin-top: 70px;
+    display: inline-block;
+    width: 700px;
+    font-family: adobe-garamond-pro;
+    color: rgba(26,26,26,.7);
+}
+
+.membersReflection-text2{
+    margin-left: 450px;
+    margin-top: 10px;
+    display: inline-block;
+    width: 700px;
+    font-family: adobe-garamond-pro;
+    color: rgba(26,26,26,.7);
+}
+
+.membersReflection-img{
+    display: flex;
+    height: 600px;
+    width: 550px;
+    margin-top: 50px;
+    margin-left: 400px;
+
+}

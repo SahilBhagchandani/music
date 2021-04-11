@@ -1,0 +1,20 @@
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{   }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+}
+
+.nav-img{
+	width: 100px;
+	height: 70px;
+}
+.topnav-text{
+	font-family: adobe-garamond-pro;
+    color: rgba(26,26,26,.7);
+
+}
+.close {
+    color: black; 
+    opacity: 1;
+}

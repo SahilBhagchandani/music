@@ -1,0 +1,16 @@
+.container{
+    margin-top: 90px;
+    width: 700px;
+    height: auto;
+}
+
+.contactus-text{
+    font-family: adobe-garamond-pro;
+
+    font-size: 30px;
+}
+
+.contactus-text-2{
+    font-size: 15px;
+    font-family: adobe-garamond-pro;
+}

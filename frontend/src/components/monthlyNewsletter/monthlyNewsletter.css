@@ -1,0 +1,29 @@
+.news-text{
+    
+    margin-top: 90px;
+    font-size: 28px;
+    font-family: adobe-garamond-pro;
+
+}
+
+.news-text-2{
+    
+    margin-top: 20px;
+    font-size: 27px;
+    font-family: adobe-garamond-pro;
+
+}
+
+ul.no-bullets {
+    font-size: 18px;
+    list-style-type: none;
+    font-family: adobe-garamond-pro;
+    color: rgba(26,26,26,.7);
+  }
+
+  
+.bullets {
+    font-family: adobe-garamond-pro;
+    color: rgba(26,26,26,.7);
+    font-size: 17px;
+  }
