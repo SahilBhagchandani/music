@@ -93,7 +93,7 @@ export default class TopNavbar extends Component {
     localStorage.setItem("username2", res.profileObj.name);
 
     axios
-      .post("http://localhost:3001/api/googlelogin", googleresponse)
+      .post("http://ec2-18-218-242-20.us-east-2.compute.amazonaws.com:3001/api/googlelogin", googleresponse)
 
       .then((result) => {
         let responseJson = result;
